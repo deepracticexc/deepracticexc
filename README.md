@@ -1,6 +1,6 @@
 👋 Hi there!
 
-🚀 [deepractice.ai](https://deepractice.ai) 联合创始人｜杨清禾(Yang QingHe)｜Cliff Yang
+🚀 [deepractice.ai](https://deepractice.ai) 联合创始人｜杨清禾(楊清禾)｜Yang QingHe｜Cliff Yang
 
 📖 [PromptX](https://github.com/Deepractice/PromptX) 顶会论文作者 | WWW 2026 | Cognitive Agent Platform with Lon
 g-term Memory
