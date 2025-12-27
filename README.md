@@ -7,7 +7,7 @@
 
 🚀 Co-Founder @ [Deepractice.ai](https://deepractice.ai) - 把 AI 从理论带入实践的高执行力团队
 
-📄 [Research Paper](https://research.deepractice.ai) Author: *"PromptX: A Cognitive Agent Platform with Long-term Memory"* | [WWW 2026 (The ACM Web Conference)](https://www2026.thewebconf.org/)
+📄 [Research Paper](https://research.deepractice.ai) Author: *"PromptX: A Cognitive Agent Platform with Long-term Memory"* | [WWW 2026](https://www2026.thewebconf.org/)
 
 ### Background
 - 前腾讯产品 (Ex-Tencent Product)
