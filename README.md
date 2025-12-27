@@ -20,6 +20,6 @@ AI Agent | Cognitive Architecture | Long-term Memory Systems | Prompt Engineerin
 
 ### Projects
 
-  - [PromptX](https://github.com/Deepractice/PromptX) - Cognitive Agent Platform with Long-term Memory (50K+ downloads, 3K+ GitHub stars)
+  - [PromptX](https://github.com/Deepractice/PromptX) - Leading AI Agent Context Platform (50K+ downloads, 3K+ GitHub stars)
 
 🔗 欢迎加入我们的社区交流群，备注添加微信：`DeepracticeAI`
