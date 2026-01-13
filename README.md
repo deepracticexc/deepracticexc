@@ -22,4 +22,8 @@ AI Agent | Cognitive Architecture | Long-term Memory Systems | Prompt Engineerin
 
   - [PromptX](https://github.com/Deepractice/PromptX) - Leading AI Agent Context Platform (50K+ downloads, 3K+ GitHub stars)
 
-🔗 欢迎加入我们的社区交流群，备注添加微信：`DeepracticeAI`
+### Contact
+
+🔗 欢迎加入我们的社区交流群，扫码添加微信：
+
+<img src="https://github.com/user-attachments/assets/51edb22c-904d-4be7-b09b-2a527f09b532" alt="WeChat QR Code" width="300" />
