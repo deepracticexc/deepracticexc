@@ -5,7 +5,7 @@
 **Yang QingHe｜Ching-Ho Yang｜Cliff Yang**
 
 
-🚀 Co-Founder @ [Deepractice.ai](https://deepractice.ai) - 把 AI 从理论带入实践的高执行力团队
+🚀 Co-Founder @ [Deepractice.ai](https://deepractice.ai)
 
 📄 [Research Paper](https://research.deepractice.ai) Co-Author: *"PromptX: A Cognitive Agent Platform with Long-term Memory"* | [WWW 2026](https://www2026.thewebconf.org/)
 
@@ -17,10 +17,6 @@
 ### Focus Areas
 
 AI Agent | Cognitive Architecture | Long-term Memory Systems | Prompt Engineering
-
-### Projects
-
-  - [PromptX](https://github.com/Deepractice/PromptX) - Leading AI Agent Context Platform (50K+ downloads, 3K+ GitHub stars)
 
 ### Contact
 
