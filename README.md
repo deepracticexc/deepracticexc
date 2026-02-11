@@ -1,24 +1,45 @@
-👋 Hi there!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hey! I'm Cliff Yang (杨清禾)
 
-## About Cliff Yang 杨清禾(楊清禾)
+**Co-Founder @ Deepractice.ai** • Building cognitive AI agents with long-term memory
 
-**Yang QingHe｜Ching-Ho Yang｜Cliff Yang**
+- Previously: Tencent Product, SF Express Operations
+- Research: WWW 2026 - *PromptX: A Cognitive Agent Platform with Long-term Memory*
 
+📍 Taiwan • 📧 yangqinghe@deepractice.ai • 🔗 [deepractice.ai](https://deepractice.ai)
 
-🚀 Co-Founder @ [Deepractice.ai](https://deepractice.ai)
+---
 
-📄 [Research Paper](https://research.deepractice.ai) Co-Author: *"PromptX: A Cognitive Agent Platform with Long-term Memory"* | [WWW 2026](https://www2026.thewebconf.org/)
+## What I Build
 
-### Background
-- 前腾讯产品 (Ex-Tencent Product)
-- 前顺丰运营 (Ex-SF Express Operations)
-- AI 开源项目贡献者
+**[UIX](https://github.com/Deepractice/UIX)** - AI-to-UI protocol layer. Solves the "last mile" from AI reasoning to human perception. First production-ready alternative before A2UI/MCP Apps mature.
 
-### Focus Areas
+**[deepractice.ai](https://deepractice.ai)** - Multi-region website with 3D animations, AI chat, and bilingual content. Single codebase serving `.ai` (Cloudflare) and `.cn` (Aliyun) with tailored content.
 
-AI Agent | Cognitive Architecture | Long-term Memory Systems | Prompt Engineering
+**[PromptX Paper Viz](https://research.deepractice.ai/promptx-paper)** - Interactive visualization for our WWW 2026 research on cognitive agent architecture.
 
-### Contact
+---
+
+## Research Focus
+
+Cognitive Architecture • Long-term Memory Systems • AI-to-UI Protocol • Prompt Engineering
+
+I'm exploring how AI agents can evolve from stateless tools to cognitive partners with persistent memory, contextual reasoning, and natural interaction patterns.
+
+---
+
+## Deepractice Ecosystem
+
+Contributing to the open-source Agent VM stack:
+
+[**PromptX**](https://github.com/Deepractice/PromptX) • [**AgentX**](https://github.com/Deepractice/AgentX) • [**PromptML**](https://github.com/Deepractice/PromptML) • [**RoleX**](https://github.com/Deepractice/RoleX)
+
+---
+
+<sub>AI Agent • Cognitive Architecture • Long-term Memory • Prompt Engineering • TypeScript • React • Next.js • Cloudflare • 认知架构 • 大语言模型</sub>
+
+---
+
+## Contact
 
 🔗 欢迎加入我们的社区交流群，扫码添加微信：
 
