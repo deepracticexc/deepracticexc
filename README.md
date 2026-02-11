@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hey! I'm Cliff Yang (杨清禾)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Cliff Yang (杨清禾)
 
 **Co-Founder @ Deepractice.ai** • Building cognitive AI agents with long-term memory
 
