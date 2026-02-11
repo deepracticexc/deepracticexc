@@ -9,13 +9,13 @@
 
 ---
 
-## What I Build
+## Projects
 
-**[UIX](https://github.com/Deepractice/UIX)** - AI-to-UI protocol layer. Solves the "last mile" from AI reasoning to human perception. First production-ready alternative before A2UI/MCP Apps mature.
+**[UIX](https://github.com/Deepractice/UIX)** — The first production-ready AI-to-UI protocol. While Google's A2UI and Anthropic's MCP Apps are still in design, UIX ships today, bridging AI reasoning to human perception with streaming-first architecture.
 
-**[deepractice.ai](https://deepractice.ai)** - Multi-region website with 3D animations, AI chat, and bilingual content. Single codebase serving `.ai` (Cloudflare) and `.cn` (Aliyun) with tailored content.
+**[deepractice.ai](https://deepractice.ai)** — Multi-region architecture serving China and international users from one codebase. Features 3D WebGL animations, AI-powered chat, and edge-optimized deployment across Cloudflare + Aliyun.
 
-**[PromptX Paper Viz](https://research.deepractice.ai/promptx-paper)** - Interactive visualization for our WWW 2026 research on cognitive agent architecture.
+**[research.deepractice.ai](https://research.deepractice.ai/promptx-paper)** — Interactive visualization of our WWW 2026 paper on cognitive agent memory systems. Makes complex architecture concepts accessible through visual storytelling.
 
 ---
 
