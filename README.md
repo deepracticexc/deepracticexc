@@ -3,6 +3,7 @@
 **Co-Founder @ Deepractice.ai** • Building cognitive AI agents with long-term memory
 
 Previously: Tencent Product, SF Express Operations
+
 Research: ACM WWW 2026 - *PromptX: A Cognitive Agent Platform with Long-term Memory*
 
 📍 Taiwan • 📧 yangqinghe@deepractice.ai • 🔗 [deepractice.ai](https://deepractice.ai)
