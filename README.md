@@ -1,9 +1,9 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hey! I'm Cliff Yang (杨清禾)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Cliff Yang (杨清禾)
 
 **Co-Founder @ Deepractice.ai** • Building cognitive AI agents with long-term memory
 
-- Previously: Tencent Product, SF Express Operations
-- Research: WWW 2026 - *PromptX: A Cognitive Agent Platform with Long-term Memory*
+Previously: Tencent Product, SF Express Operations
+Research: WWW 2026 - *PromptX: A Cognitive Agent Platform with Long-term Memory*
 
 📍 Taiwan • 📧 yangqinghe@deepractice.ai • 🔗 [deepractice.ai](https://deepractice.ai)
 
@@ -35,12 +35,12 @@ Contributing to the open-source Agent VM stack:
 
 ---
 
-<sub>AI Agent • Cognitive Architecture • Long-term Memory • Prompt Engineering • TypeScript • React • Next.js • Cloudflare • 认知架构 • 大语言模型</sub>
-
----
-
-## Contact
+## Join Our Community
 
 🔗 欢迎加入我们的社区交流群，扫码添加微信：
 
 <img src="https://github.com/user-attachments/assets/51edb22c-904d-4be7-b09b-2a527f09b532" alt="WeChat QR Code" width="300" />
+
+---
+
+<sub>AI Agent • Cognitive Architecture • Long-term Memory • Prompt Engineering • AI-to-UI Protocol • TypeScript • React • Next.js • Cloudflare</sub>
