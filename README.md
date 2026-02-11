@@ -38,7 +38,7 @@ Part of the open-source Agent VM stack:
 
 ## Join Our Community
 
-🔗 欢迎加入我们的社区交流群，扫码添加微信：
+欢迎加入我们的社区交流群，扫码添加微信联系我
 
 <img src="https://github.com/user-attachments/assets/51edb22c-904d-4be7-b09b-2a527f09b532" alt="WeChat QR Code" width="300" />
 
