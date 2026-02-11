@@ -43,4 +43,4 @@ Contributing to the open-source Agent VM stack:
 
 ---
 
-<sub>AI Agent • Cognitive Architecture • Long-term Memory • Prompt Engineering • AI-to-UI Protocol • TypeScript • React • Next.js • Cloudflare</sub>
+<sub>AI Agent • Cognitive Architecture • Long-term Memory • Prompt Engineering • AI-to-UI Protocol • TypeScript • React • Next.js • Cloudflare • 杨清禾 • 楊清禾 • Deepractice联合创始人</sub>
