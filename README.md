@@ -1,7 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Cliff Yang (杨清禾)
 
-**Co-Founder @ Deepractice.ai** • Building cognitive AI agents with long-term memory
-
 Previously: Tencent Product, SF Express Operations
 
 Research: ACM WWW 2026 - *PromptX: A Cognitive Agent Platform with Long-term Memory*
@@ -25,14 +23,6 @@ Research: ACM WWW 2026 - *PromptX: A Cognitive Agent Platform with Long-term Mem
 Cognitive Architecture • Long-term Memory Systems • AI-to-UI Protocol • Prompt Engineering
 
 My work focuses on evolving AI agents from stateless tools to cognitive partners with persistent memory, contextual reasoning, and natural interaction patterns.
-
----
-
-## Deepractice Ecosystem
-
-Part of the open-source Agent VM stack:
-
-[**PromptX**](https://github.com/Deepractice/PromptX) • [**AgentX**](https://github.com/Deepractice/AgentX) • [**PromptML**](https://github.com/Deepractice/PromptML) • [**RoleX**](https://github.com/Deepractice/RoleX)
 
 ---
 
